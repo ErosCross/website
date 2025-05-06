@@ -19,8 +19,6 @@ This site is a central hub for showcasing my software development projects, skil
 - **HTML5**  
 - **CSS3 / SCSS**  
 - **JavaScript (vanilla or framework-based)**  
-- (Optional) **Frameworks**: React, Vue, Bootstrap, etc.  
-- (Optional) **Hosting**: GitHub Pages, Vercel, Netlify  
 
 ---
 
